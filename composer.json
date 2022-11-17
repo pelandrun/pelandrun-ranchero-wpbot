@@ -1,0 +1,18 @@
+{
+    "name": "ranchero/wpbot",
+    "description": "Bot menus and actions defined by json",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ranchero\\Wpbot\\": "src/Wpbot"
+        }
+    },
+    "authors": [
+        {
+            "name": "pelandrun",
+            "email": "javier.zavalia@gmail.com"
+        }
+    ],
+    "require": {}
+}
